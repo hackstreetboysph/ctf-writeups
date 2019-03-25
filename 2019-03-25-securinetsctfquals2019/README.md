@@ -187,7 +187,7 @@ Recovered key: sir arthur conan do
 ===========
 ```
 
-By using the script and modifying the target plaintext value to match the correct words by guessing intelligently, woud result on finding out that the target plaintext is a quote by `Sir Arthur Conan Doyle`.
+By using the script and modifying the target plaintext value to match the correct words by guessing intelligently, would result on finding out that the target plaintext is a quote by `Sir Arthur Conan Doyle`.
 
 `I wanted to end the world, but I'll settle for ending yours.`
 
