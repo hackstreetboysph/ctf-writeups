@@ -74,7 +74,7 @@ In summary, in order to attack this encryption and uncover the secret plain text
 
 More details regarding this can be found on [taking advantage of one-time pad key reuse article](https://crypto.stackexchange.com/questions/59/taking-advantage-of-one-time-pad-key-reuse/).
 
-Going back to the challenge, I just used this [many time pad attack script](https://github.com/Jwomers/many-time-pad-attack/raw/master/attack.py) available, then modify it to solve the challange. 
+Going back to the challenge, I didn't want to reinvent the wheels so I just used this available [many time pad attack script](https://github.com/Jwomers/many-time-pad-attack/raw/master/attack.py), then modified it to solve the challenge. 
 
 **Solution:**
 
